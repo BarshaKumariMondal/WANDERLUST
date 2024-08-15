@@ -17,3 +17,7 @@ Backend: Node.js, Express.js
 Database: MongoDB
 
 WANDERLUST aims to provide a reliable and convenient platform for travelers and property owners alike, fostering a community where unique stays and experiences are just a few clicks away.
+
+Preview:
+
+![Screenshot 2024-08-15 201700](https://github.com/user-attachments/assets/2032359e-254c-4571-9aaf-6f048b2389db)
